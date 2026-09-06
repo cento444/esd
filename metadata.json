@@ -1,0 +1,8 @@
+{
+  "name": "Remix Agro work",
+  "description": "Aplicación de gestión agrícola para huertos de cítricos y aguacates con clima en tiempo real, precios de la Lonja de Cítricos de Valencia, finanzas, partes de trabajo y calendario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
